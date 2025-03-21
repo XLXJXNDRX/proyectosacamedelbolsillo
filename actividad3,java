@@ -1,0 +1,21 @@
+import java.util.Scaner;
+public class actividad3{
+    public static void main(String[] args){
+        System.out.println("Habla kchooooooon");
+        Scanner input = new Scaner (System.ln);
+        System.out.println("Ingrese el primer numero");
+        int primerNumero= input.nextInt; 
+        System.out.println("ingrese el segundo numero ");
+        int segundoNumero= input.nextInt;
+        System.out.println("ingrese el tercer numero ");
+        int tercerNumero= input.nextInt;
+        if primerNumero>=9;
+        System.out.println("es de un solo digito");
+        else{
+            segundoNumero>=99;
+            system.out.println
+
+
+        }
+    }
+}
